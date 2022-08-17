@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.FileSystem"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Laboratorio7\Laboratorio7.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Individual 6\Individual6.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Laboratorio6\Laboratio6.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Laboratorio5\Laboratorio5.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Individual 5\Individual5.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Laboratorio4\Laboratorio4.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Laboratorio3\Laboratorio3.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Individual 4\Individual4.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Individual 3\Individual3.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Laboratorio2\Laboratorio2.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Laboratorio1\Laboratorio1.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Laboratorio\Individual 2\Individual2.zip"/>
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Java\Windowsexplorer\src\windowsexplorer.zip"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+	</section>
+	<section name="FileSystemExportWizard">
+		<item key="WizardFileSystemResourceExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_RESOLVE_LINKED_RESOURCES_ID" value="false"/>
+		<list key="WizardFileSystemResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="D:\Documentos\Universidad\2ºcarrera\Algoritmos y estructuras de datos\Java\Complejos\src\upm\aed\tads"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+</section>

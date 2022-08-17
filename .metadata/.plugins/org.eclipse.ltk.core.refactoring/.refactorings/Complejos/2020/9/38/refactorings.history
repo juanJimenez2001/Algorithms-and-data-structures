@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;Complejos/src/upm.aed.tads&apos;&#x0D;&#x0A;- Original project: &apos;Complejos&apos;&#x0D;&#x0A;- Destination element: &apos;Complejos/src/upm.aed.tads&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Complejo.java&#x0D;&#x0A;     ComplejoCartesiano.java&#x0D;&#x0A;     ComplejoPolar.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;upm.aed.tads" element1="/src&lt;{Complejo.java" element2="/src&lt;{ComplejoCartesiano.java" element3="/src&lt;{ComplejoPolar.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1600364807377" units="3" version="1.0"/>
+</session>
